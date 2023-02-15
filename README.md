@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shadmort
 - 👀 I’m interested in translational bioinformatics
-- 🌱 I’m currently learning R (again) and how to be a better bass player
+- 🌱 I’m currently re-learning R and how to be a funkier bass player
 - 💞️ I’m looking to collaborate on large -omics datasets
 - 📫 How to reach me: shadmort@gmail.com
 
